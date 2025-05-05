@@ -4,7 +4,7 @@ import * as React from "react";
 import {
   PlasmicSignUpPrompt,
   DefaultSignUpPromptProps
-} from "./plasmic/google_o_auth_example/PlasmicSignUpPrompt";
+} from "./plasmic/site_starter/PlasmicSignUpPrompt";
 import { HTMLElementRefOf } from "@plasmicapp/react-web";
 
 // Your component props start with props for variants and slots you defined

@@ -11,7 +11,7 @@
   "dependencies": {
     "@plasmicapp/cli": "^0.1.337",
     "@plasmicapp/react-web": "^0.2.378",
-    "@plasmicpkgs/react-aria": "^0.0.123",
+    "@plasmicpkgs/react-aria": "^0.0.135",
     "next": "14.2.24",
     "next-auth": "5.0.0-beta.25",
     "react": "^18",

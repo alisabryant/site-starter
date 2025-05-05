@@ -4,7 +4,7 @@ import * as React from "react";
 import {
   PlasmicCallToActionSection,
   DefaultCallToActionSectionProps
-} from "./plasmic/google_o_auth_example/PlasmicCallToActionSection";
+} from "./plasmic/site_starter/PlasmicCallToActionSection";
 import { HTMLElementRefOf } from "@plasmicapp/react-web";
 
 // Your component props start with props for variants and slots you defined

@@ -402,10 +402,10 @@
     fast-deep-equal "^3.1.3"
     valtio "^1.6.3"
 
-"@plasmicpkgs/react-aria@^0.0.123":
-  version "0.0.123"
-  resolved "https://registry.yarnpkg.com/@plasmicpkgs/react-aria/-/react-aria-0.0.123.tgz#3b57cc910a016fbba4df692328ed6a19b9a5459e"
-  integrity sha512-ZvhVMqvVDAJGl7xvcJrXfjljTArCoWIChj4RhmT2wVxvfastPd51sI1GY6ESNAEsPl34fYt68Rt8bsh1KNBSYQ==
+"@plasmicpkgs/react-aria@^0.0.135":
+  version "0.0.135"
+  resolved "https://registry.yarnpkg.com/@plasmicpkgs/react-aria/-/react-aria-0.0.135.tgz#ffa656739530669a4b14c24f473e31a165294f31"
+  integrity sha512-s0m9cp3ZQMpWTJcbcltCRqguUjrS4vwe7OCJ0UAYD3JEIUUdKCWkWuej5vqaHGDeucXNqoCmCNKUZd4O3yKfog==
   dependencies:
     "@react-aria/i18n" "^3.11.0"
     "@react-aria/utils" "^3.24.0"

@@ -4,7 +4,7 @@ import * as React from "react";
 import {
   PlasmicPriceCard,
   DefaultPriceCardProps
-} from "./plasmic/google_o_auth_example/PlasmicPriceCard";
+} from "./plasmic/site_starter/PlasmicPriceCard";
 import { HTMLElementRefOf } from "@plasmicapp/react-web";
 
 // Your component props start with props for variants and slots you defined

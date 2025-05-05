@@ -2,9 +2,9 @@
 // This file is owned by you, feel free to edit as you see fit.
 import * as React from "react";
 import { PageParamsProvider as PageParamsProvider__ } from "@plasmicapp/react-web/lib/host";
-import GlobalContextsProvider from "../components/plasmic/google_o_auth_example/PlasmicGlobalContextsProvider";
+import GlobalContextsProvider from "../components/plasmic/site_starter/PlasmicGlobalContextsProvider";
 
-import { PlasmicHomepage } from "../components/plasmic/google_o_auth_example/PlasmicHomepage";
+import { PlasmicHomepage } from "../components/plasmic/site_starter/PlasmicHomepage";
 import { useRouter } from "next/router";
 
 function Homepage() {
